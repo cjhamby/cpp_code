@@ -81,7 +81,7 @@ int main() {
     myfile.open("output_jul_5.txt");    /* where the data is sent             */
     serialize_tree(t_ptr);              /* stores the serialization to myfile */
     myfile << endl;                     /* cap the output with a newline char */ 
-	myfile.close();                     /* what is opened, must be closed     */
+    myfile.close();                     /* what is opened, must be closed     */
 
     /* verify the results */
     s = get_file_data("output_jul_5.txt");         /* where data is read from */
@@ -101,7 +101,7 @@ int main() {
     myfile.open("output2_jul_5.txt");   /* where the data is sent             */
     serialize_tree(t_ptr);              /* stores the serialization to myfile */
     myfile << endl;                     /* cap the output with a newline char */ 
-	myfile.close();                     /* what is opened, must be closed     */
+    myfile.close();                     /* what is opened, must be closed     */
 
     /* verify the results */
     s = get_file_data("output2_jul_5.txt");
@@ -143,9 +143,8 @@ void serialize_tree(node* top){
 string get_file_data( string file ){
     string s;
     ifstream myfile(file);                     /* input file is specified as the function arg.   */ 
-    if(myfile.is_open())   {
+    if(myfile.is_open())
         getline(myfile, s);                    /* all serialized data should be on a single line */
-}
     myfile.close();                            /* the file is no longer needed   */
     return s;
 }
