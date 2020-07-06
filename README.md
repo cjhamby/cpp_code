@@ -7,24 +7,9 @@ All code is my own, unless stated otherwise!
 
 Noteworthy Codes
 ----------------------------------------------
-july_5.cpp
-
-Binary Tree Serialization / Recursion
+july_5.cpp --- Binary Tree Serialization / Recursion
 
 
-
-july_6.cpp
-
-Linear Time Algorithm Puzzle
-
-
-
-data and i2c_mod 
-
-I2C Data Handling for Arduino
-
-
-
-shift_register
-
-More Arduino code
+july_6.cpp --- Linear Time Algorithm Puzzle
+</br>
+data and i2c_mod --- I2C Data Handling for Arduino
