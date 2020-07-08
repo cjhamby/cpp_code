@@ -11,4 +11,6 @@ july_5.cpp --- Binary Tree Serialization / Recursion
 <p>
 july_6.cpp --- Linear Time Algorithm Puzzle
 <p>
+july_8.cpp --- XOR Linked List
+<p>
 data and i2c_mod --- I2C Data Handling for Arduino
