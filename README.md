@@ -13,4 +13,6 @@ july_6.cpp --- Linear Time Algorithm Puzzle
 <p>
 july_8.cpp --- XOR Linked List
 <p>
+july_9.cpp --- Numeric String Decoder 
+<p>
 data and i2c_mod --- I2C Data Handling for Arduino
