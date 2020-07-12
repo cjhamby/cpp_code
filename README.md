@@ -5,11 +5,11 @@ Dated files are my solutions to daily coding challenges, courtesy of dailycoding
 
 All code is my own, unless stated otherwise!  
 
-Noteworthy Codes
+Code Descriptions
 ----------------------------------------------
 july_5.cpp --- Binary Tree Serialization / Recursion
 <p>
-july_6.cpp --- Linear Time Algorithm Puzzle
+july_6.cpp --- Algorithm Puzzle
 <p>
 july_8.cpp --- XOR Linked List
 <p>
@@ -17,4 +17,9 @@ july_9.cpp --- Numeric String Decoder
 <p>
 july_10.cpp --- Unival Tree Counter
 <p>
+july_11.cpp --- Algorithm Puzzle
+<p>
+july_12.cpp --- Threaded Processes
+<p>
+    
 data and i2c_mod --- I2C Data Handling for Arduino
