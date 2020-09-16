@@ -21,5 +21,6 @@ july_11.cpp --- Algorithm Puzzle
 <p>
 july_12.cpp --- Threaded Processes
 <p>
-    
+ellipse.cpp --- Geometry for a CAD project
+<p>
 data and i2c_mod --- I2C Data Handling for Arduino
